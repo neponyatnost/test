@@ -1,0 +1,14 @@
+.react-tabs__tab-list {
+  display: flex;
+  align-items: flex-end;
+  max-width: 800px;
+  margin: 0 auto;
+  justify-content: space-evenly;
+}
+
+.react-tabs__tab-panel {
+  display: flex;
+  justify-content: center;
+  max-width: 800px;
+  margin: 0 auto;
+}
